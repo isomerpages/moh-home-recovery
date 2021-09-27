@@ -1,0 +1,6 @@
+collections:
+  Quarantine Order:
+    output: true
+    order:
+      - What is it.md
+      - What to do.md
